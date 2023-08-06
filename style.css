@@ -2,7 +2,7 @@
     font-family: 'Courier New', Courier, monospace;
 }
 body{
-    background: black;
+    background: white;
 }
 .section-padding{
     padding: 100px 0;
@@ -68,7 +68,7 @@ body{
     .carousel-caption p{
         width: 100%;
     }
-    
+
 }
 @media only screen and(max-width: 767px){
     .navbar-nav{
